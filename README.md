@@ -8,19 +8,17 @@ Facilitar el acceso a productos, servicios y apoyo académico dentro de la comun
 
 ## Objetivos específicos
 
-Desarrollar una plataforma digital que permita a los estudiantes publicar, comprar, vender e intercambiar productos dentro de la comunidad universitaria de forma segura y organizada.
+Desarrollar e implementar un prototipo funcional de la plataforma Marketvesitario que permita publicar, comprar, vender e intercambiar productos entre estudiantes, en un plazo máximo de 6 meses.
 
-Implementar un sistema de oferta y solicitud de tutorías académicas, donde los estudiantes puedan encontrar apoyo en diferentes materias ofrecido por otros estudiantes.
+Implementar un sistema de tutorías académicas dentro de la plataforma que permita a los estudiantes ofrecer y solicitar apoyo en diferentes materias, logrando al menos 50 tutorías registradas durante los primeros 3 meses de funcionamiento.
 
-Fomentar la economía colaborativa universitaria, permitiendo que los estudiantes reutilicen y compartan recursos académicos y tecnológicos.
+Alcanzar un registro mínimo de 200 usuarios estudiantes en la plataforma durante los primeros 6 meses después de su lanzamiento.
 
-Garantizar un sistema de perfiles y reputación, que permita evaluar a vendedores, compradores y tutores para generar confianza dentro de la plataforma.
+Integrar un sistema de valoración y reputación de usuarios, permitiendo que al menos el 60% de las transacciones o tutorías reciban calificación durante el primer año de operación.
 
-Facilitar la comunicación entre usuarios, mediante herramientas de contacto directo para concretar compras, intercambios o sesiones de tutoría.
+Promover la reutilización de productos académicos, logrando que al menos 100 productos (libros, dispositivos o materiales) sean publicados en la plataforma durante los primeros 4 meses.
 
-Promover el uso responsable de recursos, incentivando la reutilización de productos como libros, dispositivos electrónicos y materiales académicos.
-
-Optimizar la experiencia del usuario, diseñando una interfaz sencilla, accesible y adaptada a dispositivos móviles.
+Optimizar la experiencia del usuario mediante una interfaz accesible, alcanzando un nivel de satisfacción del usuario del 80% en encuestas realizadas durante el primer año de uso.
 
 ## Documentación
 - Plan de negocio: https://docs.google.com/document/d/11D14x0WriyHwGhULsdCjaE42dLMMSomK88bFuRAET1Q/edit?usp=sharing
